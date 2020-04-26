@@ -1,3 +1,8 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+It is good to have you here **heart**. I plan to talk about 
+
+- Creative Writing
+- Leadership
+- DevOps
+- Motivational Speaking
